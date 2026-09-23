@@ -1,6 +1,6 @@
 from pathlib import Path
 
-import fitz
+import pymupdf
 
 
 def parse_pdf(file_path: Path) -> str:
@@ -8,7 +8,7 @@ def parse_pdf(file_path: Path) -> str:
     Extract text from all pages of a PDF document.
     """
 
-    document = fitz.open(file_path)
+    document = pymupdf.open(file_path)
 
     pages = []
 

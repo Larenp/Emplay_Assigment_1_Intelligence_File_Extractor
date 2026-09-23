@@ -1,18 +1,16 @@
 venv/
 __pycache__/
 *.pyc
+.pytest_cache/
+.coverage
 
 .env
-
 .DS_Store
 
 data/input/*
 data/output/*
 
 vectorstore/
-
-.pytest_cache/
-.coverage
 
 .vscode/
 .idea/
