@@ -3,7 +3,7 @@ from pathlib import Path
 
 def detect_file_type(file_path: Path) -> str:
     """
-    Detect the supported document type from its extension.
+    Detect the document type based on its file extension.
     """
 
     extension = file_path.suffix.lower()
