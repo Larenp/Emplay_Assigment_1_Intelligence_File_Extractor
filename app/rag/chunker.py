@@ -1,43 +1,41 @@
 def create_chunks(
     sections: list[dict],
     chunk_size: int = 250,
-    overlap: int = 50
+    overlap: int = 50,
 ) -> list[str]:
-    """
-    Create chunks from document sections with overlap.
-    """
 
     chunks = []
 
+    # Combine all section content into one document.
+    document_parts = []
+
     for section in sections:
-        text = " ".join(section["content"])
-        words = text.split()
+        title = section.get("title", "")
+        content = section.get("content", [])
 
-        if not words:
-            continue
+        if title:
+            document_parts.append(title)
 
-        # Small section: keep it as one chunk
-        if len(words) <= chunk_size:
-            chunks.append(
-                f"{section['title']}\n{text}"
-            )
-            continue
+        document_parts.extend(content)
 
-        # Large section: split with overlap
-        start = 0
+    words = " ".join(document_parts).split()
 
-        while start < len(words):
-            end = start + chunk_size
+    if not words:
+        return []
 
-            chunk_text = " ".join(words[start:end])
+    start = 0
 
-            chunks.append(
-                f"{section['title']}\n{chunk_text}"
-            )
+    while start < len(words):
 
-            if end >= len(words):
-                break
+        end = start + chunk_size
 
-            start = end - overlap
+        chunk_text = " ".join(words[start:end])
+
+        chunks.append(chunk_text)
+
+        if end >= len(words):
+            break
+
+        start = end - overlap
 
     return chunks
