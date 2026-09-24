@@ -1,7 +1,7 @@
 def create_chunks(
     sections: list[dict],
-    chunk_size: int = 500,
-    overlap: int = 100
+    chunk_size: int = 250,
+    overlap: int = 50
 ) -> list[str]:
     """
     Create chunks from document sections with overlap.

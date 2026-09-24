@@ -13,7 +13,12 @@ def extract_phone_numbers(text: str) -> list[str]:
 
 def extract_urls(text: str) -> list[str]:
     pattern = r"https?://[^\s]+"
-    return sorted(set(re.findall(pattern, text)))
+    urls = re.findall(pattern, text)
+
+    # Remove common punctuation accidentally captured at the end.
+    return sorted(
+        set(url.rstrip(".,;:)") for url in urls)
+    )
 
 
 def extract_dates(text: str) -> list[str]:
@@ -25,7 +30,10 @@ def extract_dates(text: str) -> list[str]:
 
 
 def extract_rfp_numbers(text: str) -> list[str]:
-    pattern = r"(?i)(?:request\s+for\s+proposal|rfp)[\s#:.-]*(\d+)"
+    pattern = (
+        r"(?i)(?:request\s+for\s+proposal|rfp)"
+        r"[\s#:.-]*(\d+)"
+    )
     return sorted(set(re.findall(pattern, text)))
 
 
@@ -35,6 +43,10 @@ def extract_amounts(text: str) -> list[str]:
 
 
 def extract_rule_based(text: str) -> dict:
+    """
+    Extract deterministic information using regular expressions.
+    """
+
     return {
         "emails": extract_emails(text),
         "phone_numbers": extract_phone_numbers(text),
