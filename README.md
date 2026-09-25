@@ -169,15 +169,11 @@ Example output:
 }
 ```
 
+
 ---
-## 13. Output
-
-The extracted JSON files are stored under:
-
-```text
-data/output/
+ 
 ## Troubleshooting
-
+ 
 | Problem | Fix |
 |---|---|
 | `ollama: command not found` | Reinstall from [ollama.com/download](https://ollama.com/download) |
@@ -185,11 +181,11 @@ data/output/
 | No documents processed | Make sure files are in `data/input/` and are `.pdf`, `.html`, or `.htm` |
 | Old/wrong results after editing a document | Delete its cache folder: `rm -rf data/cache/<document_id>` and rerun |
 | Import errors | Make sure the virtual environment is active, then `pip install -r requirements.txt` |
-
+ 
 ---
-
+ 
 ## Tech Stack
-
+ 
 | Technology | Purpose |
 |---|---|
 | **Python 3.14+** | Core language for the pipeline |
@@ -201,3 +197,11 @@ data/output/
 | **Gemma 3 4B** | The local LLM used to extract context-dependent fields |
 | **Pydantic** | Validates and enforces the final JSON output schema |
 | **NumPy** | Vector/array operations used during embedding and retrieval |
+
+ ## Deliverables
+
+- **Python implementation:** `app/`
+- **Instructions and dependencies:** `README.md` and `requirements.txt`
+- **Structured JSON outputs:** `data/output/`
+
+Each provided RFP document produces a corresponding JSON file in `data/output/`.
