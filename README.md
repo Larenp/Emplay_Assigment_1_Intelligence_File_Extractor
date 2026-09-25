@@ -1,4 +1,4 @@
-# RFP Intelligence Extractor
+#  Intelligence File Extractor
 
 A Python pipeline that extracts structured information from RFP (Request for Proposal) documents (PDF/HTML) and outputs clean JSON.
 
