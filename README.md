@@ -57,7 +57,7 @@ rfp-intelligence-extractor/
 ├── data/
 │   ├── input/             # Put your RFP documents here
 │   ├── cache/              # Cached embeddings/FAISS index
-│   └── output/              # Generated JSON files
+│   └── output/             # ⭐ Extracted JSON files
 ├── requirements.txt
 └── README.md
 ```
@@ -170,7 +170,12 @@ Example output:
 ```
 
 ---
+## 13. Output
 
+The extracted JSON files are stored under:
+
+```text
+data/output/
 ## Troubleshooting
 
 | Problem | Fix |
