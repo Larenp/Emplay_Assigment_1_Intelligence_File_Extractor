@@ -1,0 +1,42 @@
+{
+    "bid_number": "1",
+    "title": "Student and Staff Computing Devices",
+    "due_date": null,
+    "bid_submission_type": [
+        "PDF version of the solicitation"
+    ],
+    "term_of_bid": "Three years with three one-year renewal extensions, not to exceed five years.",
+    "pre_bid_meeting": "August board meeting",
+    "installation": [
+        "Any awarded vendor will need to coordinate a schedule of deliveries with the Dallas ISD ED TECH department.",
+        "Dallas ISD requires vendors to include the address of their local location.",
+        "Both asset tagging and asset etching/decaling are required.",
+        "For Windows devices, autopilot is required.",
+        "For Chromebooks, enrollment in Google Management is required."
+    ],
+    "bid_bond_requirement": null,
+    "delivery_date": "Any awarded vendor will need to coordinate a schedule of deliveries with the Dallas ISD ED TECH department.",
+    "payment_terms": null,
+    "additional_documentation_required": [
+        "Form 1295 - CERTIFICATE OF INTERESTED PARTIES",
+        "USB 3.1",
+        "higher specification is permissible",
+        "laser etch on stand-alone monitors or AIO computers"
+    ],
+    "mfg_for_registration": "manufacturer registration",
+    "contract_or_cooperative": null,
+    "model_no": null,
+    "part_no": null,
+    "product": "display monitor, laptops, Chromebooks, Windows laptops",
+    "contact_info": null,
+    "company_name": "Dallas ISD",
+    "bid_summary": "bid_summary\n\nThe RFP is for Student and Staff Computing Devices for Dallas ISD. The purpose is to solicit proposals for providing laptops, Chromebooks, and tablets. Major products/services requested include student and staff computing devices, including Windows laptops (with autopilot) and Chromebooks (with Google Management enrollment). Important contract information includes a one-year warranty for student Chromebooks and three years for student and staff Windows laptops. Contract duration is one-year warranty for student Chromebooks and three years for student and staff Windows laptops. Additional break-fix repair programs can be included as additional pricing in the attachments section.",
+    "product_specification": [
+        "USB 3.1 is a minimum requirement.",
+        "A higher specification is permissible.",
+        "Laptop Battery Life: This will be based on the manufacturer's specifications.",
+        "For Windows devices, autopilot is required.",
+        "For Chromebooks, enrollment in Google Management is required.",
+        "The quantities will be spread over life of the contract."
+    ]
+}

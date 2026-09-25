@@ -1,0 +1,31 @@
+{
+    "bid_number": "JA-207652",
+    "title": "Student and Staff Computing Devices",
+    "due_date": "07/09/2024 03:00 PM EDT",
+    "bid_submission_type": [
+        "physical submission"
+    ],
+    "term_of_bid": "5-year contract term with no renewal periods specified.",
+    "pre_bid_meeting": "06/10/2024 03:00 PM EDT",
+    "installation": null,
+    "bid_bond_requirement": null,
+    "delivery_date": "07/09/2024 03:00 PM EDT",
+    "payment_terms": null,
+    "additional_documentation_required": [
+        "JA-207652 - Student and Staff Computing Devices"
+    ],
+    "mfg_for_registration": "manufacturer registration",
+    "contract_or_cooperative": "JA-207652",
+    "model_no": "JA-207652",
+    "part_no": "JA-207652",
+    "product": "laptops, desktops, tablet devices, display monitors, cables",
+    "contact_info": "Email: ProcurementCS@dallasisd.org | Phone: 972-925-3700",
+    "company_name": "Dallas Independent School District",
+    "bid_summary": "bid_summary\nThis Request for Proposal (RFP) is for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors. The District is requesting proposals for one, several, or all categories of devices required. Vendors must be able to provide significant quantities of devices as requested over a five-year contract period. Contracts may include two 1-year extensions.",
+    "product_specification": [
+        "minimum hardware requirements for each tier of device required by Dallas ISD",
+        "vendors responding to this RFP must have the ability to provide the District with significant quantities of devices as requested in the pricing lines in this RFP",
+        "Purchase may also include a variety of device accessories which will be ordered in a bundle along with the devices",
+        "Such accessories include, but are not limited to sleeves, cases, mice, keyboards, and cables"
+    ]
+}

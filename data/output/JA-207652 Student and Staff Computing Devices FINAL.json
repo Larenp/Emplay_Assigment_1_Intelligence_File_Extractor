@@ -1,0 +1,50 @@
+{
+    "bid_number": "168884",
+    "title": "Student and Staff Computing Devices",
+    "due_date": "27-JUN-2024 14:00:00",
+    "bid_submission_type": [
+        "online/electronic submission, physical submission, sealed envelope"
+    ],
+    "term_of_bid": "3-year initial term with two 1-year renewal extensions, not to exceed a total of 5 years.",
+    "pre_bid_meeting": "10-JUN-2024 14:00:00 CST via TEAMS video conference",
+    "installation": [
+        "include all associated costs for asset decaling and reporting, etching, and delivery",
+        "White glove services, which include asset decaling, asset reporting, etching, and delivery to varied locations."
+    ],
+    "bid_bond_requirement": null,
+    "delivery_date": null,
+    "payment_terms": "Net 30",
+    "additional_documentation_required": [
+        "manufacturer or authorized reseller certifications must be submitted with each proposal.",
+        "Fabrication Certifications and/or FEMA Certifications, if applicable"
+    ],
+    "mfg_for_registration": "register with the iSupplier portal https://www.dallasisd.org/domain/143",
+    "contract_or_cooperative": "CENTRAL TEXAS PURCHASING ALLIANCE (CTPA)",
+    "model_no": null,
+    "part_no": null,
+    "product": "laptops, desktops, tablet devices, display monitors",
+    "contact_info": "Email: DGORACLEFDTEAM@DALLASISD.ORG, DGOracleFDTeam@dallasisd.org, JALZATE@dallasisd.org, shewilli@dallasisd.org | Phone: 972.925.3700, 972.925.4140",
+    "company_name": "Dallas ISD",
+    "bid_summary": "Bid Summary: This RFP is for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors.\n\nMajor Products/Services Requested: Student and Staff Computing Devices.\n\nContract Information: The contract term is three (3) years with two (2) successive one (1) year extensions, not to exceed five (5) years total. Record retention requirements for contracts involving federal funds are for a period of three years after grantees or subgrantees submit final expenditure reports or quarterly/annual financial reports.",
+    "product_specification": [
+        "Intel i5 Processor, 14th Gen or equivalent",
+        "Intel i7 Processor, 14th Gen or equivalent",
+        "Minimum 23.8\" diagonal screen Touch Screen",
+        "Minimum 13\" diagonal screen",
+        "Minimum 16GB RAM",
+        "Minimum 32GB DDR5 RAM",
+        "64 GB Storage",
+        "512 GB NVMe SSD",
+        "1 TB NVMe SSD",
+        "1920 X 1080 Resolution",
+        "1080p Integrated Camera",
+        "10 Hours Battery Life",
+        "Minimum 3 USB 3.0; 2 USB-C1 HDMI; 1 headphone/microphone combo",
+        "Minimum 3 USB 3.0; 1 USB-C, 1 HDMI; 1 headphone/microphone combo",
+        "USB Type C, 65W Power Supply",
+        "USB C, 65W Power Supply",
+        "24\" diagonal screen",
+        "1920 X 1080",
+        "USB 3.1 Hub"
+    ]
+}

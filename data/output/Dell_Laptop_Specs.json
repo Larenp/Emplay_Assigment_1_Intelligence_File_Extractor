@@ -1,0 +1,29 @@
+{
+    "bid_number": null,
+    "title": null,
+    "due_date": null,
+    "bid_submission_type": [
+        "electronically linked terms and descriptions are available in hard copy upon request"
+    ],
+    "term_of_bid": null,
+    "pre_bid_meeting": null,
+    "installation": null,
+    "bid_bond_requirement": null,
+    "delivery_date": "thirty days from the date of this Quote",
+    "payment_terms": null,
+    "additional_documentation_required": [
+        "tax exemption certificate"
+    ],
+    "mfg_for_registration": null,
+    "contract_or_cooperative": "Dell Financial Services LLC",
+    "model_no": null,
+    "part_no": "M.2 2230",
+    "product": "SSD",
+    "contact_info": "Email: ARSalesTax@emc.com, Tax_Department@dell.com | Phone: 107365-0257, 135366-0141, 806364-1846, 941375-3088",
+    "company_name": "Dell Marketing LP",
+    "bid_summary": "bid_summary: Customer is requesting 256 GB, M.2 2230, TLC, Gen 4 PCIe NVMe, SSD. The Governing Terms apply to the exclusion of all terms and conditions incorporated in or referred to in any documentation submitted by Customer to Supplier. Different Governing Terms may apply to different products and services on this Quote.",
+    "product_specification": [
+        "256 GB, M.2 2230, TLC, Gen 4 PCIe NVMe, SSD",
+        "16 GB: 2 x 8 GB, DDR5, 5600 MT/s (5200 MT/s with 13th Gen Intel Core processors)"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "bid_number": null,
+    "title": null,
+    "due_date": "November 30",
+    "bid_submission_type": [
+        "other than an individual, who is currently under the influence of drugs or alcohol; and (e) Provide a drug and alcohol awareness program for its employees. The business shall maintain records relating to these requirements for a period of at least three years."
+    ],
+    "term_of_bid": null,
+    "pre_bid_meeting": null,
+    "installation": null,
+    "bid_bond_requirement": null,
+    "delivery_date": "November 30",
+    "payment_terms": "30 days",
+    "additional_documentation_required": [
+        "Proposal Affidavit",
+        "certain specified information to include disclosure of beneficial ownership of the business. D. POLITICAL CONTRIBUTION DISCLOSURE AFFIRMATION I FURTHER AFFIRM THAT: I am aware of, and the above business will comply with, Election Law Article, Title 14, Annotated Code of Maryland, which requires that every person that enters into a procurement contract with the State, a county, or a municipal corporation, or other political subdivision of the State, during a calendar year in which the person receives a contract with a governmental entity in the amount of $200,000 or more, shall file with the State Board of Elections statements disclosing: (a) any contributions made during the reporting period to a candidate for elective office in any primary or general election; and (b) the name of each candidate to whom one or more contributions in a cumulative amount of $500 or more were made during the reporting period. The statement shall be filed with the State Board of Elections: (a) before execution of a contract by the State, a county, a municipal corporation, or other political subdivision of the State, and shall cover the 24 months prior to when a contract was awarded; and (b) if the contribution is made after the execution of a contract, then twice a year, throughout the contract term, on or before: (i) May 31, to cover the six (6) month period ending April 30; and (ii) November 30, to cover the six (6) month period ending October 31."
+    ],
+    "mfg_for_registration": "registration with the manufacturer",
+    "contract_or_cooperative": null,
+    "model_no": null,
+    "part_no": null,
+    "product": "drug and alcohol abuse assistance or rehabilitation program",
+    "contact_info": "Name: ________________\nEmail: null\nPhone: null",
+    "company_name": null,
+    "bid_summary": "bid_summary\n\nThe RFP requests a business to maintain a drug and alcohol-free workplace and comply with COMAR 21.11.08. It requires publishing a statement prohibiting drug and alcohol use, preventing employees from working under the influence, and not hiring individuals with drug abuse issues. The contract includes specific reporting requirements regarding criminal drug convictions. Contract duration is undefined.",
+    "product_specification": [
+        "product_specification",
+        "Drug and alcohol-free workplace",
+        "Maintain a workplace free of drug and alcohol abuse during the term of the contract",
+        "Prohibit its employees from working under the influence of drugs or alcohol",
+        "Notify the employer of any criminal drug or alcohol abuse conviction for an offense occurring"
+    ]
+}

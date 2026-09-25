@@ -1,0 +1,42 @@
+{
+    "bid_number": "E20P4600040",
+    "title": "Hardware Master Contract PORFP",
+    "due_date": "06/10/2024 12:00 AM EDT",
+    "bid_submission_type": [
+        "eMaryland Marketplace Advantage (eMMA) e-Procurement system"
+    ],
+    "term_of_bid": "3 years following the date of delivery",
+    "pre_bid_meeting": null,
+    "installation": [
+        "Laptops must be Microsoft Copilot ready",
+        "Delivery within 45 days of Award",
+        "Invoice(s) shall be submitted within 10 days of delivering the equipment and shall include at a minimum the following: • Reference the States assigned PORFP number. • Date, invoice number and amount due.",
+        "Proof of delivery including packing slip or delivery confirmation, and equipment serial numbers"
+    ],
+    "bid_bond_requirement": "0%",
+    "delivery_date": "90 days after the set due date above.",
+    "payment_terms": "45 days",
+    "additional_documentation_required": [
+        "Letter of Authorization (LOA)",
+        "Mercury Affidavit: https://doit.maryland.gov/contracts/Documents/hardware_contract/hwmercury_affidavit.pdf",
+        "Warranty certificate or Affidavit"
+    ],
+    "mfg_for_registration": "registration with the manufacturer",
+    "contract_or_cooperative": "060B5400007\neMaryland Marketplace Advantage (eMMA)",
+    "model_no": "E20P4600040",
+    "part_no": "CC7802",
+    "product": "Laptops, Dell Latitude 5550, Dell Thunderbolt 4 Dock – WD22TB4",
+    "contact_info": "Email: STOaccountspayable@treasurer.state.md.us, jsimpson@treasurer.state, thawkins@treasurer.state.md, thawkins@treasurer.state.md.us | Phone: 410-260-6063, 410-260-7533",
+    "company_name": "MD State Treasurer’s Office",
+    "bid_summary": "Bid Summary\n\nThe RFP is a Purchase Order Request for Proposals (PORFP) for Hardware Master Contract 4. The purpose is to award contracts to Master Contractors for Functional Area requirements. Major products/services being requested include Dell Laptops (specifically the Dell Laptop #E20P4600040). The contract duration is 3 years following the date of delivery. \n\nContract Information:\n*   Contract Duration: 3 years following the date of delivery\n*   Bid Submission Deadline: 06/10/2024 at 2:00 PM EDT",
+    "product_specification": [
+        "Dell Latitude 5550",
+        "Microsoft Copilot ready",
+        "3 Years",
+        "06/10/2024",
+        "Dell Thunderbolt 4 Dock – WD22TB4",
+        "WD22TB4",
+        "06/10/2024",
+        "45 days"
+    ]
+}

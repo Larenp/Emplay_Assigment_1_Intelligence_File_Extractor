@@ -1,0 +1,26 @@
+{
+    "bid_number": null,
+    "title": "Authorized Representative",
+    "due_date": null,
+    "bid_submission_type": [
+        "other explicitly stated methods"
+    ],
+    "term_of_bid": null,
+    "pre_bid_meeting": null,
+    "installation": null,
+    "bid_bond_requirement": null,
+    "delivery_date": null,
+    "payment_terms": null,
+    "additional_documentation_required": [
+        "MERCURY CONTENT INFORMATION: (1) Describe the product or product component that contains mercury. (2) Provide the amount of mercury that is contained in the product or product component. Indicate the unit of measure being used."
+    ],
+    "mfg_for_registration": null,
+    "contract_or_cooperative": null,
+    "model_no": null,
+    "part_no": null,
+    "product": "product(s)",
+    "contact_info": null,
+    "company_name": "State of Maryland",
+    "bid_summary": null,
+    "product_specification": null
+}
