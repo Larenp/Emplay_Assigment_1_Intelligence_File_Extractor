@@ -8,3 +8,7 @@ python-dotenv==1.2.3
 soupsieve==2.9.2
 typing-inspection==0.4.4
 typing_extensions==4.16.0
+
+sentence-transformers==5.1.2
+faiss-cpu==1.15.1
+numpy==2.5.3
